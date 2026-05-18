@@ -99,7 +99,6 @@ educational-data-analysis/
 ├── data/
 ├── notebooks/
 ├── images/
-├── outputs/
 ├── requirements.txt
 ├── README.md
 └── analysis.ipynb
